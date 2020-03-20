@@ -1,11 +1,13 @@
 # 3D-medical-image-classification
 机器学习课程大作业
 kaggle competition
+
 https://www.kaggle.com/c/sjtu-m3dv-medical-3d-voxel-classification/
 
 一句话简介：基于3D卷积神经网络的医学图像分类
 
-目标：得到test集的二分类结果，即该肺部结节是否表征某基因
+目标：得到test集的二分类结果，即该肺部结节是否表征某基因
+
 配置：AWS g3.4xlarge
 
 
