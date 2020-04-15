@@ -11,7 +11,8 @@ https://www.kaggle.com/c/sjtu-m3dv-medical-3d-voxel-classification/
 配置：AWS g3.4xlarge
 
 
-主要使用的代码框架
+主要使用的代码框架： keras(tensorflow)
+
 主要数据预处理方法：mixup、rotation
 
 运行模型：train.py  
